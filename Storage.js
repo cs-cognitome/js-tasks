@@ -37,4 +37,4 @@ export function makeStorage(storage = {}) {
       cache[key] = value;
     }
   };
-}
+*/
